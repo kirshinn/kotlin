@@ -1,3 +1,7 @@
+package base
+
+import classes.Student
+
 fun main(args: Array<String>) {
     println("Hello Kotlin!")
     println(mult(4,3))
@@ -9,6 +13,8 @@ fun main(args: Array<String>) {
 
     val name = "Kotlin"
     var message: String = "language $name"
+
+    val student = Student("Ivan", "Ivanov", 86.2)
 
 }
 

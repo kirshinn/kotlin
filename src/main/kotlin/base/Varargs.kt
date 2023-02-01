@@ -1,3 +1,5 @@
+package base
+
 fun main() {
     val result = sum(10, 20, 30)
     println(result)

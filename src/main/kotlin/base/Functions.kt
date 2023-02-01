@@ -1,3 +1,5 @@
+package base
+
 fun main() {
     outFunction("outer Function")
 }

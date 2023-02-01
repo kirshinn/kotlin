@@ -1,3 +1,5 @@
+package base
+
 fun main() {
     val arrNum: Array<Int> = arrayOf(2, 5, 8, 12)
     val getNum = arrNum[3]

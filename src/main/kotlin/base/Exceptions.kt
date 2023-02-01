@@ -1,3 +1,5 @@
+package base
+
 import java.lang.IllegalArgumentException
 import java.util.Scanner
 

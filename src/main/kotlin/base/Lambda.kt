@@ -1,3 +1,5 @@
+package base
+
 fun main() {
     // первый способ lambda expression
     val sum = { x: Int, y: Int -> x + y}
